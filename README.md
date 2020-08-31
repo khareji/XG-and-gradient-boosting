@@ -1,6 +1,6 @@
 # XG-and-gradient-boosting
 # Aim
-To perform bagging and boosting technique in bank note aythentication data
+To perform bagging and boosting technique in bank note authentication data
 # Data
 bank note data downloaded from kaggle 
 # Problem
